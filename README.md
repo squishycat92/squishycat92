@@ -3,5 +3,3 @@ Hello! My name is Ted Hong, and I'm currently a high school student! I'm a techn
 *Please note that the below cards only show public contributions!*
 
 ![squishycat92's Stats](https://github-readme-stats.vercel.app/api?username=squishycat92&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
-![squishycat92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=squishycat92&theme=nord&show_icons=true&hide_border=false&layout=compact)
